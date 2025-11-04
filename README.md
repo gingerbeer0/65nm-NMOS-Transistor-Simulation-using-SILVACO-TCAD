@@ -30,7 +30,8 @@ It reproduces the process and structure described in a reference paper, and comp
 * Analysis of drain current variation by gate length
 * ID–VD and ID–VG plots under different bias conditions
 
-*(Image placeholder – insert simulation plots here)*
+<img width="2452" height="1414" alt="image" src="https://github.com/user-attachments/assets/1c40287e-2b61-4a5e-b8b0-c621d12ce082" />
+
 
 ---
 
@@ -39,8 +40,8 @@ It reproduces the process and structure described in a reference paper, and comp
 * Comparison between conventional 65nm, Halo-implanted, and Retrograde Well NMOS
 * Verification of short-channel effect (SCE) suppression
 * Improvements in threshold voltage, saturation behavior, and leakage reduction
-
-*(Image placeholder – insert structure and graphs here)*
+  
+<img width="2478" height="1424" alt="image" src="https://github.com/user-attachments/assets/9c323db8-b532-4c40-833c-f5903bddb168" />
 
 ---
 
