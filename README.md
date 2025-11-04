@@ -71,10 +71,12 @@ It reproduces the process and structure described in a reference paper, and comp
   * **Reduced leakage current**
 
 300nm
-<img width="2432" height="1422" alt="image" src="https://github.com/user-attachments/assets/d5a330a3-3e4d-4e59-8133-88836c263b19" />
+<img width="2430" height="1416" alt="image" src="https://github.com/user-attachments/assets/bf9b6d3e-a244-48ca-9194-ffb94c6e6ea9" />
+
 
 65nm
-<img width="2420" height="1424" alt="image" src="https://github.com/user-attachments/assets/0c86a2ad-09c8-4556-9871-cf4d5deae733" />
+<img width="2420" height="1424" alt="image" src="https://github.com/user-attachments/assets/afd50b3b-f1d5-448c-b463-110581ef9ffa" />
+
 
 
 ---
