@@ -1,0 +1,13 @@
+tonyplot -st mos300nm.str -set mos300nm.set
+
+tonyplot -st mos65nm.str -set mos65nm.set
+
+tonyplot -st mos65nm_halo.str -set mos65nm_halo.set
+
+tonyplot -overlay -st mos300nm_1.log  mos65nm_1.log mos300nm_1.set
+
+tonyplot -overlay -st mos300nm_4.log  mos65nm_4.log mos65nm_4.set
+
+tonyplot -overlay -st mos65nm_1.log  mos65nm_halo_1.log mos65nm_1.set
+
+tonyplot -overlay -st mos65nm_4.log  mos65nm_halo_4.log mos65nm_4.set
